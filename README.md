@@ -10,7 +10,7 @@
 </p>
 <!-- About Me -->
 <p align="center">
-<b>🌟 Data Science & Developer | Estudante de Análise e Desenvolvimento de Sistemas na FIAP 🌟</b><br>
+<b>🌟 Estudante de Análise e Desenvolvimento de Sistemas na FIAP 🌟</b><br>
 <b>💻 Linguagens e Tecnologias: Java, Python, SQL, Node.js, React.js, Next.js,JS 💻</b><br>
 </p>
 <!-- Skills -->
