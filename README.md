@@ -24,10 +24,7 @@
   <img align="center" alt="Next.js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="JavaScript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </p>
-<!-- GitHub Stats -->
-<p align="center">
-<img src="" width="45%" alt="Most Used Languages">
-</p>
+
 <!-- Social Links -->
 <p align="center">
 <a href="mailto:"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
